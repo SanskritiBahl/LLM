@@ -1,7 +1,8 @@
 # LLM
 ## Author  :  Sanskriti Bahl
 
-![Uploading Screenshot 2025-03-09 at 19.46.16.png…]()
+
+<img width="1056" alt="Screenshot 2025-03-09 at 19 46 16" src="https://github.com/user-attachments/assets/f29686f8-496e-4258-9ab9-dd24601ec7d8" />
 
 
 Overview
