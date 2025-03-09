@@ -1,6 +1,9 @@
 # LLM
 ## Author  :  Sanskriti Bahl
 
+![Uploading Screenshot 2025-03-09 at 19.46.16.png…]()
+
+
 Overview
 This repository contains a system prompt designed for Open WebUI, embodying a supreme feminist icon—a figure of unparalleled strength, intelligence, and authority. This persona reimagines the archetype of Wonder Woman, blending her fearless leadership with a modern, unapologetic feminist perspective. The prompt creates an AI persona that champions women’s empowerment, equality, and dominance in a world often skewed by male privilege and systemic sexism.
 
